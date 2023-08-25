@@ -1,1 +1,1 @@
-# home_work_8
+запуск командой: docker-compose up
